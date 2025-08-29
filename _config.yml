@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "PhD Student"
+title                    : "About Falong Fan"
 title_separator          : "-"
 name                     : &name "Falong Fan"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "falongfan/falongfan.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Falong Fan"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at University of Arizona"
   location         : "Tucson, AZ, USA"
