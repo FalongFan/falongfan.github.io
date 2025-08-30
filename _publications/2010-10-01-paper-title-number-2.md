@@ -1,13 +1,14 @@
 ---
-title: "Understanding the Evaluation Abilities of External Cluster Validity Indices to Internal Ones"
+title: "PeerGuard: Defending Multi-Agent Systems Against Backdoor Attacks Through Mutual Reasoning"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Evaluating internal Cluster Validity Index (CVI) is a critical task in clustering research. Existing studies mainly employ the number of clusters (NC-based method) or external CVIs (external CVIs-based method) to evaluate internal CVIs, which are not always reasonable in all scenarios. Additionally, there is no guideline of choosing appropriate methods to evaluate internal CVIs in different cases. In this paper, we focus on the evaluation abilities of external CVIs to internal CVIs, and propose a novel approach, named external CVI evaluation Ability MEasurement approach through Ranking consistency (CAMER), to measure the evaluation abilities of external CVIs quantitatively, for assisting in selecting appropriate external CVIs to evaluate internal CVIs. Specifically, we formulate the evaluation ability measurement problem as a ranking consistency task, by measuring the consistency between the evaluation results of external CVIs to internal CVIs and the ground truth performance of internal CVIs. Then, the superiority of CAMER is validated through a real-world case. Moreover, the evaluation abilities of seven popular external CVIs to internal CVIs in six different scenarios are explored by CAMER. Finally, these explored evaluation abilities are validated on four real-world datasets, demonstrating the effectiveness of CAMER.'
-date: Opt, 2020
-venue: 'Tehnički vjesnik'
-paperurl: 'https://hrcak.srce.hr/file/361349'
-citation: 'Gao, X., Wei, G., & Fan, F. (2020). Understanding the Evaluation Abilities of External Cluster Validity Indices to Internal Ones. Tehnički vjesnik, 27(6), 1956-1964.'
+category: conferences
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'Multi-agent systems leverage advanced AI models as autonomous agents that interact, cooperate, or compete to complete complex tasks across applications such as robotics and traffic management. Despite their growing importance, safety in multi-agent systems remains largely underexplored, with most research focusing on single AI models rather than interacting agents. This work investigates backdoor vulnerabilities in multi-agent systems and proposes a defense mechanism based on agent interactions. By leveraging reasoning abilities, each agent evaluates responses from others to detect illogical reasoning processes, which indicate poisoned agents. Experiments on LLM-based multi-agent systems, including ChatGPT series and Llama 3, demonstrate the effectiveness of the proposed method, achieving high accuracy in identifying poisoned agents while minimizing false positives on clean agents. We believe this work provides insights into multi-agent system safety and contributes to the development of robust, trustworthy AI interactions.'
+date: May, 2025
+venue: 'IEEE-IRI, Best Paper Award'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://arxiv.org/pdf/2505.11642'
+bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+citation: 'Fan, F., & Li, X. (2025). PeerGuard: Defending Multi-Agent Systems Against Backdoor Attacks Through Mutual Reasoning. arXiv preprint arXiv:2505.11642.'
 ---
-
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
