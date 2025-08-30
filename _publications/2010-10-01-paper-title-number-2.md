@@ -3,7 +3,7 @@ title: "Understanding the Evaluation Abilities of External Cluster Validity Indi
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Evaluating'
+excerpt: 'Evaluating internal Cluster Validity Index (CVI) is a critical task in clustering research. Existing studies mainly employ the number of clusters (NC-based method) or external CVIs (external CVIs-based method) to evaluate internal CVIs, which are not always reasonable in all scenarios. Additionally, there is no guideline of choosing appropriate methods to evaluate internal CVIs in different cases. In this paper, we focus on the evaluation abilities of external CVIs to internal CVIs, and propose a novel approach, named external CVI evaluation Ability MEasurement approach through Ranking consistency (CAMER), to measure the evaluation abilities of external CVIs quantitatively, for assisting in selecting appropriate external CVIs to evaluate internal CVIs. Specifically, we formulate the evaluation ability measurement problem as a ranking consistency task, by measuring the consistency between the evaluation results of external CVIs to internal CVIs and the ground truth performance of internal CVIs. Then, the superiority of CAMER is validated through a real-world case. Moreover, the evaluation abilities of seven popular external CVIs to internal CVIs in six different scenarios are explored by CAMER. Finally, these explored evaluation abilities are validated on four real-world datasets, demonstrating the effectiveness of CAMER.'
 date: Opt, 2020
 venue: 'Journal 1'
 paperurl: 'https://hrcak.srce.hr/file/361349'
