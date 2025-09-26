@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Falong Fan (UNDER CONSTRUCTION)
+title: Falong Fan
 author_profile: true
 redirect_from: 
   - /about/
@@ -25,3 +25,10 @@ Before starting my PhD journey at UofA, I earned my Masters' degree in [The Chin
 <br>
 **🎓 University of Science and Technology Beijing**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Management in Big Data Management and Applications     
+
+
+# Publications
+* [PeerGuard: Defending Multi-Agent Systems Against Backdoor Attacks Through Mutual Reasoning](https://arxiv.org/pdf/2505.11642)
+  **Falong Fan**, Xi Li, **Best Paper Award** of IEEE-IRI 2025
+* [Understanding the Evaluation Abilities of External Cluster Validity Indices to Internal Ones](https://falongfan.github.io/publication/2010-10-01-paper-title-number-2)
+  Xiaonan Gao, Guiying Wei, Sen Wu, **Falong Fan**
