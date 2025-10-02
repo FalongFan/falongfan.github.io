@@ -29,6 +29,7 @@ Before starting my PhD journey at UofA, I earned my Masters' degree in [The Chin
 
 # Publications
 * [PeerGuard: Defending Multi-Agent Systems Against Backdoor Attacks Through Mutual Reasoning](https://arxiv.org/pdf/2505.11642)
-  **Falong Fan**, Xi Li, **Best Paper Award** of IEEE-IRI 2025
+  **Falong Fan**, Xi Li,
+  * 🏆**Best Paper Award** of IEEE-IRI 2025
 * [Understanding the Evaluation Abilities of External Cluster Validity Indices to Internal Ones](https://falongfan.github.io/publication/2010-10-01-paper-title-number-2)
   Xiaonan Gao, Guiying Wei, Sen Wu, **Falong Fan**
