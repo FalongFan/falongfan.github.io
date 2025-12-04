@@ -35,6 +35,11 @@ Before starting my PhD journey at UofA, I earned my Masters' degree in [The Chin
   Xiaonan Gao, Guiying Wei, Sen Wu, **Falong Fan**
 
 
-<a href="https://mapmyvisitors.com/web/1c12m" title="Visit tracker">
-  <img src="https://mapmyvisitors.com/map.png?d=QIQtE1-Gn7clqCtOq-NDqiT9JvnvdyMSQr0qmKmvf2A&cl=ffffff" />
-</a>
+<div style="text-align: center;">
+  <a href="https://mapmyvisitors.com/web/1c12m" title="Visit tracker">
+    <img 
+      src="https://mapmyvisitors.com/map.png?d=QIQtE1-Gn7clqCtOq-NDqiT9JvnvdyMSQr0qmKmvf2A&cl=ffffff"
+      style="width: 100%; max-width: 1000px; border-radius: 8px;"
+    />
+  </a>
+</div>
