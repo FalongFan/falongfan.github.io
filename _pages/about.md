@@ -33,3 +33,6 @@ Before starting my PhD journey at UofA, I earned my Masters' degree in [The Chin
   * 🏆**Best Paper Award** of IEEE-IRI 2025
 * [Understanding the Evaluation Abilities of External Cluster Validity Indices to Internal Ones](https://falongfan.github.io/publication/2010-10-01-paper-title-number-2)
   Xiaonan Gao, Guiying Wei, Sen Wu, **Falong Fan**
+
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=QIQtE1-Gn7clqCtOq-NDqiT9JvnvdyMSQr0qmKmvf2A&cl=ffffff&w=a"></script>
