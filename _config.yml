@@ -22,7 +22,7 @@ repository               : "falongfan/falongfan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "falongfan.JPG"
   name             : "Falong Fan"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at University of Arizona"
