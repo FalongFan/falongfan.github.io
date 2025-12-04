@@ -38,8 +38,9 @@ Before starting my PhD journey at UofA, I earned my Masters' degree in [The Chin
 <div style="text-align: center;">
   <a href="https://mapmyvisitors.com/web/1c12m" title="Visit tracker">
     <img 
-      src="https://mapmyvisitors.com/map.png?d=QIQtE1-Gn7clqCtOq-NDqiT9JvnvdyMSQr0qmKmvf2A&cl=ffffff"
-      style="width: 50%; max-width: 1000px; border-radius: 8px;"
+      src="https://mapmyvisitors.com/map.png?cl=ffffff&w=800&t=n&d=QIQtE1-Gn7clqCtOq-NDqiT9JvnvdyMSQr0qmKmvf2A"
+      style="width: 50%; max-width: 800px; border-radius: 8px;"
     />
   </a>
 </div>
+
