@@ -7,24 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi! My name is Falong Fan, a PhD student at [Electrical & Computer Engineering Department](https://ece.engineering.arizona.edu/) at [University of Arizona (UofA)](https://www.arizona.edu/). My research interests lie in artificial intelligence, specifically in multi-agent systems and their applications, such as healthcare and robustness. 
+👋 Hi! My name is Falong Fan, an incoming PhD student at the [Electrical & Computer Engineering Department](https://engineering.virginia.edu/department/electrical-and-computer-engineering) at [University of Virginia (UVA)](https://engineering.virginia.edu/). My research interests lie in Medical AI and Healthcare. 
 
-Before starting my PhD journey at UofA, I earned my Master's degree in [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), advised by [Prof. Ruimao Zhang](http://zhangruimao.site/). Prior to that, I obtained my Bachelor's in [University of Science and Technology Beijing](https://en.ustb.edu.cn/), advised by Prof. Sen Wu. In non-academic contexts, I am into cooking, sports such as badminton, swimming, and the gym. 
+Before starting my PhD journey at UVA, I earned my Master's degree at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), advised by [Prof. Ruimao Zhang](http://zhangruimao.site/). Prior to that, I obtained my Bachelor's in [University of Science and Technology Beijing](https://en.ustb.edu.cn/), advised by Prof. Sen Wu. In non-academic contexts, I enjoy cooking, sports such as badminton and swimming, and the gym. 
+
+
+<div style="background-color: #fff8e1; border-left: 5px solid #f9a825; padding: 14px 18px; margin: 24px 0; border-radius: 6px; color: #333;">
+  🤝 <strong>I am open to collaboration!</strong> If you are interested in working with me, feel free to reach out: <a href="mailto:rgz3vp@virginia.edu" style="color: #1a73e8; font-weight: bold;">rgz3vp@virginia.edu</a>
+</div>
+
 
 # Research Interests
 * Multi-agent Systems for Healthcare
 * Trustworthy AI
-* Natural Language Processing, Computer Vision
+* Natural Language Processing, Computer Vision 
 
-# Education
-**🎓 The Chinese University of Hong Kong, Shenzhen**     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master of Science in Data Science     
-<br>
-**🎓 University of Science and Technology Beijing**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Management in Big Data Management and Applications     
 
 
 # Publications
+* [TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination](https://arxiv.org/pdf/2605.15207)
+  Yi Xie, Siao Liu, **Falong Fan**, Yuanqi Yao, Siyang Cao, Yue Zhao, Bo Liu
+  * ICML 2026
 * [PeerGuard: Defending Multi-Agent Systems Against Backdoor Attacks Through Mutual Reasoning](https://arxiv.org/pdf/2505.11642)
   **Falong Fan**, Xi Li,
   * 🏆**Best Paper Award** of IEEE-IRI 2025
