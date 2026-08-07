@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi! My name is Falong Fan, a PhD student at [Electrical & Computer Engineering Department](https://ece.engineering.arizona.edu/) at [University of Arizona (UofA)](https://www.arizona.edu/), under the supervision of [Prof. Bo Liu](https://ergodicmarkovian.github.io/main/). My research interests lie in artificial intelligence, specifically in multi-agent systems and their applications, such as healthcare and robustness. 
+👋 Hi! My name is Falong Fan, a PhD student at [Electrical & Computer Engineering Department](https://ece.engineering.arizona.edu/) at [University of Arizona (UofA)](https://www.arizona.edu/). My research interests lie in artificial intelligence, specifically in multi-agent systems and their applications, such as healthcare and robustness. 
 
 Before starting my PhD journey at UofA, I earned my Master's degree in [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), advised by [Prof. Ruimao Zhang](http://zhangruimao.site/). Prior to that, I obtained my Bachelor's in [University of Science and Technology Beijing](https://en.ustb.edu.cn/), advised by Prof. Sen Wu. In non-academic contexts, I am into cooking, sports such as badminton, swimming, and the gym. 
 
@@ -17,9 +17,6 @@ Before starting my PhD journey at UofA, I earned my Master's degree in [The Chin
 * Natural Language Processing, Computer Vision
 
 # Education
-**🎓 University of Arizona**    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD Student in Computer Science and Engineering    
-<br>
 **🎓 The Chinese University of Hong Kong, Shenzhen**     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master of Science in Data Science     
 <br>
