@@ -13,7 +13,7 @@ Before starting my PhD journey at UVA, I earned my Master's degree at [The Chine
 
 
 <div style="background-color: #fff8e1; border-left: 5px solid #f9a825; padding: 14px 18px; margin: 24px 0; border-radius: 6px; color: #333;">
-  🤝 <strong>I am open to collaboration!</strong> If you are interested in working with me, feel free to reach out: <a href="mailto:rgz3vp@virginia.edu" style="color: #1a73e8; font-weight: bold;">rgz3vp@virginia.edu</a>
+  🤝 <strong>I am open to collaboration!</strong> If you are interested in working with me, feel free to reach out via <a href="mailto:rgz3vp@virginia.edu" style="color: #1a73e8; text-decoration: underline;">email</a>.
 </div>
 
 
